@@ -1,0 +1,41 @@
+disabled = false
+languageCode = "zh-CN"
+languageName = "Chinese"
+weight = 1
+title = "uB1nlR"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "uB1nlR"
+  email = "whrisnbb@outlook.com"
+  image = "img/blowfish_logo.png"
+  imageQuality = 96
+  headline = "I'm only human"
+  bio = "A little bit about you"
+  links = [
+    { email = "whrisnbb@outlook.com" },
+    { link = "https://ub1nlr.github.io" },
+    { discord = "https://discord.gg/invitecode" },
+    { foursquare = "https://foursquare.com/username" },
+    { github = "https://github.com/username" },
+    { google = "https://www.google.com/" },
+    { microsoft = "https://www.microsoft.com/" },
+    { reddit = "https://reddit.com/user/username" },
+    { spotify = "https://open.spotify.com/user/userid" },
+    { steam = "https://steamcommunity.com/profiles/userid" },
+    { telegram = "https://t.me/username" },
+    { threads = "https://www.threads.net/@username" },
+    { tiktok = "https://tiktok.com/@username" },
+    { twitch = "https://twitch.tv/username" },
+    { "x-twitter" = "https://twitter.com/username" },
+    { youtube = "https://youtube.com/username" }
+  ]
