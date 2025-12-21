@@ -8,20 +8,21 @@
 #
 # 默认情况下，菜单按字母顺序排列。可以通过提供 weight 值覆盖此行为。菜单将按 weight 从低到高排序。
 
-[[main]]
-  name = "文章"
-  pageRef = "posts"
-  weight = 2
 
 [[main]]
   name = "关于"
   pageRef = "about"
-  weight = 1
+  weight = 10
+
+[[main]]
+  name = "文章"
+  pageRef = "posts"
+  weight = 20
 
 [[main]]
   name = "友链"
   pageRef = "friends"
-  weight = 3
+  weight = 30
 
 #[[main]]
 #  name = "example sub-menu 1"
